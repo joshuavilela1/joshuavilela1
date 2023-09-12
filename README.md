@@ -1,4 +1,4 @@
-### <div align="center">Hey everyone and welcome to my profile! I'm Josh and I am a Full Stack Engineer </div>  
+### <div align="center">Hey everyone and welcome to my profile! I'm Josh and I am a Software Engineer </div>  
   
 
 - 👔 I’m currently working on my portfolio page!  
