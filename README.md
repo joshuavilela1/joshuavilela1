@@ -7,7 +7,7 @@
 -  🏫 I’m currently learning Data Structures and Algorithms
   
 
-- 📽️ Check out all the projects I've done so far down below or on my portfolio page <a href='https://www.joshuavilela.dev/' /></a>!  
+- 📽️ Check out all the projects I've done so far down below or on my portfolio page <a href='https://www.joshuavilela.dev/' />joshuavilela.dev</a>!  
   
 
 - ⚡ Fun fact: One thing on my bucket list is to create a video game!  
