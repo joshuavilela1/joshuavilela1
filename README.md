@@ -78,8 +78,9 @@
 <br/>
 
 ### Github Stats
+<div align="center"> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshuavilela1&" alt="joshuavilela1" /></p>
-
+</div>
 
 ## Connect with me  
 <div align="center">
