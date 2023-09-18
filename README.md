@@ -1,10 +1,10 @@
 ### <div align="center">Hey everyone and welcome to my profile! I'm Josh and I am a Software Engineer </div>  
   
 
-- 👔 I’m currently working on my portfolio page!  
+- 👔 I’m currently working on a new project using Next.js, PostgreSQL and Bun 1.0 
   
 
--  🏫 I’m currently learning Next.js 13.4 and PostgreSQL  
+-  🏫 I’m currently learning Data Structures and Algorithms
   
 
 - 📽️ Check out all the projects I've done so far!  
